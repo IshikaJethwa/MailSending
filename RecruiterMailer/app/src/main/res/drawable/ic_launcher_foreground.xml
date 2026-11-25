@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Envelope -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M32,42 h40 a4,4 0 0 1 4,4 v26 a4,4 0 0 1 -4,4 h-40 a4,4 0 0 1 -4,-4 v-26 a4,4 0 0 1 4,-4 z" />
+    <!-- Flap -->
+    <path android:strokeColor="#FF2F5BEA" android:strokeWidth="3.5"
+        android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M30.5,45 L52,61 L73.5,45" />
+    <!-- Send badge -->
+    <path android:fillColor="#FF19C3A5" android:strokeColor="#FFFFFFFF" android:strokeWidth="2.5"
+        android:pathData="M65,38 a11,11 0 1,0 22,0 a11,11 0 1,0 -22,0 z" />
+    <path android:strokeColor="#FFFFFFFF" android:strokeWidth="2.6"
+        android:strokeLineCap="round" android:strokeLineJoin="round"
+        android:pathData="M71.5,42.5 L80.5,33.5 M74,33.5 L80.5,33.5 L80.5,40" />
+</vector>
